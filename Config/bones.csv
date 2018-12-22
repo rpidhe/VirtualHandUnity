@@ -1,0 +1,16 @@
+name,minEularX,maxEularX,minEularY,maxEularY,minEularZ,maxEularZ
+ThumbProximal,-5,30,-40,40,-10,10
+ThumbIntermediate,0,40,-5,5,-5,5
+ThumbDistal,0,70,0,0,0,0
+IndexProximal,-25,90,0,0,0,18
+IndexIntermediate,0,90,0,0,0,0
+IndexDistal,0,45,0,0,0,0
+MiddleProximal,-10,90,0,0,-5,10
+MiddleIntermediate,0,90,0,0,0,0
+MiddleDistal,0,45,0,0,0,0
+RingProximal,-5,90,0,0,-8,0
+RingIntermediate,0,90,0,0,0,0
+RingDistal,0,45,0,0,0,0
+LittleProximal,-5,90,0,0,-18,2
+LittleIntermediate,0,90,0,0,0,0
+LittleDistal,0,60,0,0,0,0
